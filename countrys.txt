@@ -1,0 +1,3 @@
+{ "Kiribati", "Romania", Uganda", Bermuda", Eritrea", French Guiana", Turks and Caicos Islands",
+   "Bahamas", Iceland", Kyrgyzstan", "Puerto Rico", "Saint Helena", "Costa Rica", "Guadeloupe", "Cayman Islands",
+   "Slug": "cayman-islands", "Gabon", Czech Republic", "Serbia", "Western Sahara" }
